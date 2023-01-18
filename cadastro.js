@@ -1,4 +1,10 @@
 function signUp(email){
+    return email
 
 }
-//oegando email e cadastrando na plataforma
+//pegando email e cadastrando na plataforma
+function recebeMsg(){
+    return 'bem vindo ao sistema'
+    }
+    //Adicionando função de mensagem
+    
